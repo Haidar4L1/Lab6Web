@@ -1,7 +1,7 @@
 # Lab6Web
 ### Style dengan menggunakan Bootstrap
 
-Pada kali ini saya akan mengerjakan tugas Lab6Web menggunakan framework bootstrap untuk stylingnya.
+styling framework bootstrap
 
 ==========================================================================================
 
