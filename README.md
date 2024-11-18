@@ -1,10 +1,6 @@
 # Lab6Web
 ### Style dengan menggunakan Bootstrap
 
-- Muhammad Haidar Ali
-- 312310210
-- TI.23.A2
-
 Pada kali ini saya akan mengerjakan tugas Lab6Web menggunakan framework bootstrap untuk stylingnya.
 
 ==========================================================================================
